@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\bin\Debug\net8.0\Ex05.exe
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\bin\Debug\net8.0\Ex05.deps.json
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\bin\Debug\net8.0\Ex05.runtimeconfig.json
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\bin\Debug\net8.0\Ex05.dll
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\bin\Debug\net8.0\Ex05.pdb
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.dll
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\refint\Ex05.dll
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.pdb
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\Ex05.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex05\obj\Debug\net8.0\ref\Ex05.dll

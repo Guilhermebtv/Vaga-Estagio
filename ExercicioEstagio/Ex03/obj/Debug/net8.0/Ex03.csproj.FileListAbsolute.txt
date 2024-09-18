@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\bin\Debug\net8.0\Ex03.exe
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\bin\Debug\net8.0\Ex03.deps.json
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\bin\Debug\net8.0\Ex03.runtimeconfig.json
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\bin\Debug\net8.0\Ex03.dll
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\bin\Debug\net8.0\Ex03.pdb
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.dll
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\refint\Ex03.dll
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.pdb
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\Ex03.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\ExercicioEstagio\Ex03\obj\Debug\net8.0\ref\Ex03.dll
